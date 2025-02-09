@@ -13,7 +13,7 @@ presenter: true
 drawings:
   persist: false
 transition: slide-left
-title: Rebuilding the Fallen Tent - Session 4
+title: Rebuilding the Fallen Tent - Session 5
 mdc: true
 download: true
 export:
@@ -22,6 +22,7 @@ fonts:
   sans: EB Garamond
   serif: EB Garamond
   mono: Fira Code
+  local: SBL Hebrew
   weights: '300,400,500,600,700'
   provider: google
 ---
@@ -239,23 +240,4 @@ layout: statement
 
 # David's voice in the Psalms is expanded from character and pious exemplar to composer and prophetic authority.
 
----
-layout: statement
----
 
-# In what way are the Psalms Davidic?
-
-<!--
-* The Psalms are associated with David, but in what way?
-  * Through the superscriptions, many psalms are directly associated with David's life.
-    * The character of David brings the psalms to life and provides a narrative context for their performance.
-  * As prophetic traditions about David develop, David gains a new role as a prophetic composer.
-    * As we see at Qumran and in Josephus, some of these connections don't directly incorporate David's authorship of a canonical collection of psalms.
-    * What we see in Acts, where David is cited as the prophetic author of specific psalms, is a development of this tradition.
-  * David's status as a character in the Psalms and his status as a prophetic figure work in tandem such that David's voice prophesies concerning Israel's future and concerning the future of the Davidic house.
--->
-
----
-layout: qr-code
----
-# QR code for this presentation
